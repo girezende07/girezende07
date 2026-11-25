@@ -12,6 +12,7 @@ Banco de Dados
 Análise de Dados
 Power BI
 
+
 Projetos
 📊 Projetos SQL
 
@@ -22,5 +23,4 @@ Projetos
 💾 Banco de Dados
 
 Objetivo
-Construir um portfólio sólido na área de Dados e desenvolver projetos que demonstrem minhas competências em análise, manipulação e visualização de dados
 Construir um portfólio sólido na área de Dados e desenvolver projetos que demonstrem minhas competências em análise, manipulação e visualização de dados.
