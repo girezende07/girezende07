@@ -11,12 +11,10 @@ Git e GitHub
 Banco de Dados
 Análise de Dados
 Power BI
-
 Projetos
 📊 Projetos SQL
 🐍 Exercícios e projetos em Python
 📈 Estudos de Ciência de Dados
 💾 Banco de Dados
-
 Objetivo
 Construir um portfólio sólido na área de Dados e desenvolver projetos que demonstrem minhas competências em análise, manipulação e visualização de dados.
