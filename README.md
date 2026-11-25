@@ -1,16 +1,26 @@
-## Hi there 👋
+Olá, eu sou Giovanna Rezende 👋
+🎓 Estudante de Tecnologia em Ciência de Dados
 
-<!--
-**girezende07/girezende07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sobre mim
+Atualmente estou desenvolvendo conhecimentos em Ciência de Dados, Banco de Dados, SQL e Python, construindo projetos práticos para fortalecer minhas habilidades analíticas e técnicas.
 
-Here are some ideas to get you started:
+Tecnologias e Ferramentas
+SQL
+Python
+Git e GitHub
+Banco de Dados
+Análise de Dados
+Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projetos
+📊 Projetos SQL
+
+🐍 Exercícios e projetos em Python
+
+📈 Estudos de Ciência de Dados
+
+💾 Banco de Dados
+
+Objetivo
+Construir um portfólio sólido na área de Dados e desenvolver projetos que demonstrem minhas competências em análise, manipulação e visualização de dados
+Construir um portfólio sólido na área de Dados e desenvolver projetos que demonstrem minhas competências em análise, manipulação e visualização de dados.
