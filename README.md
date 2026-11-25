@@ -12,14 +12,10 @@ Banco de Dados
 Análise de Dados
 Power BI
 
-
 Projetos
 📊 Projetos SQL
-
 🐍 Exercícios e projetos em Python
-
 📈 Estudos de Ciência de Dados
-
 💾 Banco de Dados
 
 Objetivo
